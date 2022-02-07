@@ -1,0 +1,14 @@
+{
+  "reservations": [
+    {
+      "parentName": "James Potter",
+      "childName": "Harry Potter",
+      "addressOfParty": "4 Privet Drive",
+      "lengthOfReservation": "1",
+      "reservationDate": "1993-09-01",
+      "numOfChildren": "3",
+      "id": 1
+    }
+  ],
+  "employees": []
+}

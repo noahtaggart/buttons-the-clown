@@ -1,0 +1,35 @@
+.field {
+    flex-direction: column;
+    display: flex;
+}
+
+.serviceForm {
+    justify-content: space-evenly;
+    flex-basis: 24%;
+    margin: 0 2rem;
+    border: 1px dashed dodgerblue;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 0.25rem 0.25rem 0.5rem rgb(143, 143, 143);
+    font-size: larger;
+}
+
+#submitRequest {
+    color:whitesmoke;
+    background-color: navy;
+}
+
+
+.serviceRequests {
+    padding: 1rem 2rem;
+    font-size: 1.1rem;
+}
+
+h1 {
+    font-size: xx-large;
+}
+
+.reservation_delete {
+    color: antiquewhite;
+    background-color: mediumslateblue;
+}
